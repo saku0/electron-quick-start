@@ -1,20 +1,16 @@
 {
-  "name": "electron-quick-start",
+  "name": "tilde",
   "version": "1.0.0",
-  "description": "A minimal Electron application",
+  "description": "Personal non-linear notebook",
   "main": "main.js",
   "scripts": {
     "start": "electron ."
   },
-  "repository": "https://github.com/electron/electron-quick-start",
+  "repository": "https://github.com/saku0/tilde",
   "keywords": [
-    "Electron",
-    "quick",
-    "start",
-    "tutorial",
-    "demo"
+    "Electron"
   ],
-  "author": "GitHub",
+  "author": "Santosh Kumar",
   "license": "CC0-1.0",
   "devDependencies": {
     "electron": "^13.1.4"
